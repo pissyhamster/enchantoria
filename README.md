@@ -1,6 +1,6 @@
 # Enchantoria
-## Enchantoria Blog Repository
-Welcome to the official repository for Enchantoria blogs! This repository stores all blog posts related to the game, including updates, card previews, gameplay mechanics, and development insights.
+## Repository
+Welcome to the official repository for Enchantoria! This repository stores all blog posts related to the game, including updates, card previews, gameplay mechanics, and development insights.
 
 # Contents
 Patch Updates: Information about game updates and changes.
