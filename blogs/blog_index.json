@@ -1,6 +1,6 @@
 {
     "blogs": [
-        { "id": 1, "title": "Alpha 2-01 Release", "date": "October 5, 2024", "file": "Alpha%202-01.md", "type": "announcements" },
+        { "id": 1, "title": "Alpha 2 Announcement", "date": "October 5, 2024", "file": "Alpha%202-01.md", "type": "announcements" },
         { "id": 2, "title": "Final Patch for Alpha 1", "date": "September 30, 2024", "file": "Alpha%201%20Final%20Patch.md", "type": "releases" },
     ]
 }
