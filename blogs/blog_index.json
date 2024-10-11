@@ -1,0 +1,5 @@
+{
+    "blogs": [
+        { "id": 1, "title": "Alpha 2-01 Release", "date": "October 5, 2024", "file": "Alpha%202-01.md", "type": "announcements" }
+    ]
+}
